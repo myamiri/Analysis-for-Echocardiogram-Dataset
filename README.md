@@ -30,10 +30,10 @@ All the patients suffered heart attacks at some point in the past. Some are stil
 7. lvdd – left ventricular end-diastolic dimension. This is a measure of the size of the heart at end-diastole. Large hearts tend to be sick hearts.
 8. wall-motion-score – a measure of how the segments of the left ventricle are moving
 9. wall-motion-index – equals wall-motion-score divided by number of segments seen
-10. Mult-A derivate   variable (suggested that it can be ignored)
-11.Name-The Name of the patient 
-12.Group-Group (Has been considered meaningless and suggested to ignore)  
-13. alive-at-1 – Boolean-valued. Derived from the first two attributes. 0 means patient was either dead after 1 year or had been followed for less than 1 year. 1 means patient was alive at 1 year.
+ 10. Mult-A derivate   variable (suggested that it can be ignored)
+ 11.Name-The Name of the patient 
+ 12.Group-Group (Has been considered meaningless and suggested to ignore)  
+ 13. alive-at-1 – Boolean-valued. Derived from the first two attributes. 0 means patient was either dead after 1 year or had been followed for less than 1 year. 1 means patient   was alive at 1 year.
 
 
 
