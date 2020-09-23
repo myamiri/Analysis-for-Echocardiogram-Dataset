@@ -56,6 +56,14 @@ Logistic Regression model perform well.
 Both have a good performance as the numbers of false negatives in both are zero. But the number of false positives in Random Forest is less than Logistic 
 Regression so its performance is better.
 
+
+![my p 1](https://user-images.githubusercontent.com/33470542/94084813-86855300-fdd4-11ea-892f-93d1ae5c79c3.png)
+
+
+
 The Accuracy of train dataset and validation dataset are very close and this shows that we don’t have overfitting and based on the accuracy of Validation dataset 
 I can say the accuracy of the models on unseen data is like the result for validation data.
+
+
+![my p 2](https://user-images.githubusercontent.com/33470542/94084866-9e5cd700-fdd4-11ea-8620-83784182dd62.png)
 
